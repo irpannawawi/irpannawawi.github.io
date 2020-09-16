@@ -2,32 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nawawi News</title>
-    <link>https://irpannawawi.github.io/</link>
+    <link>https://www.sysflow.xyz/</link>
     <description>Recent content on Nawawi News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Sep 2020 01:32:08 +0700</lastBuildDate>
     
-	<atom:link href="https://irpannawawi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.sysflow.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#liveonpoweron Kartu Digital Baru dari Xl Axiata</title>
-      <link>https://irpannawawi.github.io/posts/liveon/</link>
+      <link>https://www.sysflow.xyz/posts/liveon/</link>
       <pubDate>Fri, 11 Sep 2020 01:32:08 +0700</pubDate>
       
-      <guid>https://irpannawawi.github.io/posts/liveon/</guid>
+      <guid>https://www.sysflow.xyz/posts/liveon/</guid>
       <description>Live.On adalah brand telekomunikasi digital dari PT XL Axiata, Tbk. Seperti pendahulunya By.u dan Switch, Live.On memberikan semua bentuk pelayanannya dalam aplikasi. tapi tak hanya melalui aplikasi live.On itu sendiri kartu Live.On bisa didapatkan juga melalui marketplace shopee. lantas apa saja yang bisa kita dapatkan dari kartu Live.On ini?
   SATU KUOTA BESAR
 Dengan Live.On kamu punya kebebasan buat pakai kuota kamu kapan aja, untuk semua jaringan, aplikasi, dan tanpa kompromi kecepatan.</description>
     </item>
     
     <item>
+      <title>Contact Us!</title>
+      <link>https://www.sysflow.xyz/contact/</link>
+      <pubDate>Fri, 11 Sep 2020 01:32:08 +0700</pubDate>
+      
+      <guid>https://www.sysflow.xyz/contact/</guid>
+      <description>Email:Message:Submitwindow.addEventListener(&#34;DOMContentLoaded&#34;, function() {var form = document.getElementById(&#34;contact-form&#34;);var button = document.getElementById(&#34;contact-form-button&#34;);var status = document.getElementById(&#34;contact-form-status&#34;);function success() {form.reset();button.style = &#34;display: none &#34;;status.innerHTML = &#34;Thanks!&#34;;}function error() {status.innerHTML = &#34;Oops! There was a problem.&#34;;}form.addEventListener(&#34;submit&#34;, function(ev) {ev.preventDefault();var data = new FormData(form);ajax(form.method, form.action, data, success, error);});});function ajax(method, url, data, success, error) {var xhr = new XMLHttpRequest();xhr.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://irpannawawi.github.io/about/</link>
+      <link>https://www.sysflow.xyz/about/</link>
       <pubDate>Wed, 12 Aug 2020 10:51:15 +0700</pubDate>
       
-      <guid>https://irpannawawi.github.io/about/</guid>
+      <guid>https://www.sysflow.xyz/about/</guid>
       <description>Nawawi News adalah sebuah lanyanan portal berita seputar teknologi informasi.</description>
     </item>
     
